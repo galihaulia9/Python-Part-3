@@ -1,5 +1,5 @@
 # Python-Part-3
-The third week studied NumPy, Pandas, Loc &amp; iloc, Data Frame, Dataset (Titanic.csv) to be displayed to the data frame and adaptation questions from Python Mini Projects.
+The third week studied NumPy, Pandas, Loc &amp; iloc, Data Frame, Functions Pandas Python, Dataset (Titanic.csv) to be displayed to the data frame and adaptation questions from Python Mini Projects.
 
 ## NumPy
 Is a Python library that focuses on scientific computing. Simply put : Numpy provides ready-to-use functions to help us perform scientific calculations such as matrices, algebra, statistics, and so on. Numpy example with displaying data types :
