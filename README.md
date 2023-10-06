@@ -49,7 +49,7 @@ Here's an example of how to create a data frame from dictionary data type conver
 - Data Frame display when called
 <img width="393" alt="image" src="https://github.com/galihaulia9/Python-Part-3/assets/125258524/f3ead4f5-0709-42b4-b50d-9b6aab6fa35c">
 
-## Functions Data Frame
+## Functions Pandas Python
 - df.head() : to view data from the top.
 - df.info() : to view data information.
 - df.tail() : to view data from the bottom.
